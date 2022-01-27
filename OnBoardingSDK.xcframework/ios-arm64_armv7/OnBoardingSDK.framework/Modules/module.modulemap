@@ -1,0 +1,6 @@
+framework module OnBoardingSDK {
+    umbrella header "OnBoardingSDK.h"
+    
+    export *
+    module * { export * }
+}
